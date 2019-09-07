@@ -1,0 +1,17 @@
+HAI STAH ^_^
+$ pkg update && pkg upgrade
+$ pkg install php
+$ pkg install python2
+$ pkg install mechanize
+$ pkg install openssh
+$ pkg install git
+$ cd /sdcard/hackfbterbaru
+$ ls
+$ cd/toolsfast-master
+$ ls
+$ sh TheThca.sh
+
+
+ID :Mrlink
+PW:Palingcantik
+
